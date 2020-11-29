@@ -1,0 +1,54 @@
+body {
+    margin-top: 0px;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(209, 183, 183);
+}
+.container {
+    width: 1200px;
+    background-color: rgb(209, 183, 183);
+    height: 2000px;
+    -ms-flex-item-align: center;
+    align-self: center;
+    margin: 0px auto;
+    padding: 0 auto;
+}
+
+.equi-trabajo {
+    height: 50px;
+    background-color: white;
+    font-size: xx-large;
+    text-align: center;
+    color: black;
+    border: black 1px solid;
+}
+
+.seccion-4 {
+    height: 500px;
+    display: flex;
+    justify-content: space-evenly;
+    align-content: center;
+}
+.miembro {
+    width: 25%;
+    background-color: rgb(209, 183, 183);
+    align-content: center;
+    justify-content: center;
+    border: black 1px solid;
+}
+.foto {
+    height: 220px;
+    weight: 230px;
+    background-color: rgb(209, 183, 183);
+    align-content: center;
+    justify-content: center;
+}
+
+.nombre-persona {
+    text-align:center;
+}
+
+.descripcion-personal {
+    text-align: left;
+    margin: 25px 20px 20px 25px;
+    border: red 5px hidden;
+}

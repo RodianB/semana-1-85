@@ -53,6 +53,7 @@ p{
     margin-left: auto;
     margin-right: auto;
     text-align: center;
+    width: 1200px;
 }
 .top-banner {
     display: flex;
